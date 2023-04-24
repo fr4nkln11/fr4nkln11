@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fr4nkln11" target="blank"><img src="https://img.shields.io/twitter/follow/fr4nkln11?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
-- 🔭 I’m currently working on Nothing at the moment
-
+- 🔭 I’m currently working on <a href="https://github.com/fr4nkln11/HangmanforDevs">**Hangman for Devs**</a>
 - 🌱 I’m currently learning **Object Oriented Programming (again), advanced python and Flask micro framework.**
 
 - 💬 Ask me about **Python**
