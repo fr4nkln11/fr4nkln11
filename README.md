@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://twitter.com/fr4nkln11" target="blank"><img src="https://img.shields.io/twitter/follow/fr4nkln11?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/fr4nkln11/HangmanforDevs">**Hangman for Devs**</a>
-- 🌱 I’m currently learning **Object Oriented Programming (again), advanced python and Flask micro framework.**
+- 🌱 I’m currently learning **Advanced Python and Flask micro framework.**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **ikehfranklind3c0d3r@gmail.com**
 
-- ⚡ Fun fact **I have been coding in python for over 2 years now, but I've never been consistent enough to say I actually have 2 years of experience LOL!**
+- ⚡ Fun fact **I have been coding in python for over 3 years now, but I've never been consistent enough to say I actually have 3 years of experience LOL!**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
