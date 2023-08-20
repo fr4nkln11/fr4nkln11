@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/builtbyfranklin" target="blank"><img src="https://img.shields.io/twitter/follow/builtbyfranklin?logo=twitter&style=for-the-badge" alt="fr4nkln11" /></a> </p>
 
-- 🔭 I’m currently working on [**OnlyNotes**](https://github.com/fr4nkln11/OnlyNotes)
+- 🔭 I’m currently working on low-level programming at ALX Africa.
 
 - 🌱 I’m currently learning **Low-level Programming with C, Python backend development**
 
