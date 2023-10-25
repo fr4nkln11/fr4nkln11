@@ -117,4 +117,4 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4nkln11&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true" alt="fr4nkln11"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fr4nkln11&show_icons=true&theme=gruvbox&locale=en&hide_border=true" alt="fr4nkln11"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=fr4nkln11&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fr4nkln11&theme=gruvbox&hide_border=true" alt="GitHub Streak" /></a>
