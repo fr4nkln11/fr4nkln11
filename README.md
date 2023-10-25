@@ -117,4 +117,4 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4nkln11&layout=compact&langs_count=8&card_width=320&theme=tokyonight" alt="fr4nkln11"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fr4nkln11&show_icons=true&theme=tokyonight&locale=en" alt="fr4nkln11"/>
-  <img src="https://streak-stats.demolab.com?user=fr4nkln11&theme=catppuccin-mocha&hide_border=true" alt="fr4nkln11" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=fr4nkln11&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
