@@ -34,7 +34,7 @@
 ### Some cool Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,7 +42,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 4.9 kB Used in GitHub's Storage 
+> 📦 5.0 kB Used in GitHub's Storage 
  > 
 > 🏆 943 Contributions in the Year 2023
  > 
@@ -112,7 +112,7 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 08/12/2023 18:36:44 UTC
+ Last Updated on 09/12/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4nkln11&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true" alt="fr4nkln11"/>
