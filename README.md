@@ -34,7 +34,7 @@
 ### Some cool Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -107,7 +107,7 @@ Lua                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 25/12/2023 18:35:18 UTC
+ Last Updated on 26/12/2023 18:35:27 UTC
 <!--END_SECTION:waka-->
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fr4nkln11&layout=compact&langs_count=8&card_width=320&theme=gruvbox&hide_border=true" alt="fr4nkln11"/>
